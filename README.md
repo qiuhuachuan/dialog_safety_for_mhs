@@ -1,1 +1,1 @@
-# dialog_safety_for_mhs
+# Dialog Safety for Mental Health Support
